@@ -1,5 +1,5 @@
 <h1 align="center">
-FAKE NOC>
+FAKE NOC
 </h1>
 
 <p align="center">Repositório contendo um ambiente de estudo em Containers para uso/treinamento (LOCALHOST).
