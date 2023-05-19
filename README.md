@@ -9,10 +9,11 @@ FAKENOC
 Ao executar o Docker compose você criara um ambiente com os seguintes serviços:</p>
 
 
-Zabbix-Server
-Zabbix-Fronted
-Zabbix-Agent</li>
-Zabbix-Frontend</li>
-Mysql Server<
-Grafana
-</ol>
+- Zabbix-Server
+- Zabbix-Fronted
+- Zabbix-Agent
+- Zabbix-Frontend
+- Mysql Server
+- Grafana
+
+</hr>
