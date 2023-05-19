@@ -1,5 +1,10 @@
-<h1 style="font-color:powderblue;" align="center">
-FAKE NOC
+<h1 style="color:green;background-color:gray;" align="center">
+ _____ _    _  _______ _   _  ___   ____
+|  ___/ \  | |/ | ____| \ | |/ _ \ / ___|
+| |_ / _ \ | ' /|  _| |  \| | | | | |
+|  _/ ___ \| . \| |___| |\  | |_| | |___
+|_|/_/   \_|_|\_|_____|_| \_|\___/ \____|
+
 </h1>
 
 <p align="center">Repositório contendo um ambiente de estudo em Containers para uso/treinamento (LOCALHOST).
