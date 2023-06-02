@@ -84,4 +84,4 @@ services:
       - '10050:10050'
     environment:
       - ZBX_HOSTNAME=zabbix-agent
-      - ZBX_SERVER_HOST=172.26.207.147
+      - ZBX_SERVER_HOST=<IP LOCAL DO DESKTOP ou WSL (sem os sinais)>
