@@ -12,7 +12,6 @@ Ao executar o Docker compose você criara um ambiente com os seguintes serviços
 - Zabbix-Server
 - Zabbix-Fronted
 - Zabbix-Agent
-- Zabbix-Frontend
 - Mysql Server
 - Grafana
 
